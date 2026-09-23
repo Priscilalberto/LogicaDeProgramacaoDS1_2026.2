@@ -1,2 +1,6 @@
 print("Priscila Gomes")
 print("Ola Mundo!")
+nome = input("Priscila")
+dia = input("10")
+mes = input("abril")
+ano = input("2011")

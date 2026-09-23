@@ -1,0 +1,12 @@
+# TODO: Declare as variáveis abaixo e execute a célula para testar
+nome_produto = "milk"
+quantidade_estoque = 20
+preco_unitario = 15.0
+disponivel_para_venda = True
+
+# TODO: Escreva os prints de inspeção aqui
+
+print("Tipo do nome:", type(nome_produto))
+print("Tipo de quantidade:", type(quantidade_estoque))
+print("Tipo de preco", type(preco_unitario))
+print("Tipo disponivel", type(disponivel_para_venda))
